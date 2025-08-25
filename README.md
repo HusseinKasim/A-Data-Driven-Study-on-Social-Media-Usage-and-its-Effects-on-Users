@@ -1,3 +1,6 @@
+# A-Data-Driven-Study-on-Social-Media-Usage-and-its-Effects-on-Users
+---------------------------------------------------------------------
+
 Social Media has become a shadow of what it once set out to achieve, and has contributed heavily towards degrading users' cognitive abilities and productivity, as well as promoting stress, lack of quality sleep, and mental health problems in people all around the world. This project is a study, performed on a publicly available dataset (found on Kaggle), that attempts to understand how social media usage is affecting users. The goal is to analyze the data provided by this dataset and to attempt to create a machine learning model capable of predicting user behaviors based on their social media usages.
 I will perform Exploratory Data Analysis (EDA) on the dataset and attempt to understand a few vital points, which include:
 
